@@ -18,16 +18,16 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ccckmit/noteServer.git"
   },
   "keywords": [
     "koa",
     "SPA",
     "blog"
   ],
-  "author": "",
+  "author": "ccckmit",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/ccckmit/noteServer/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/ccckmit/noteServer"
 }
